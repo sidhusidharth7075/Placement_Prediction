@@ -145,7 +145,7 @@ The models' performance is evaluated using various metrics, including:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Placement_Prediction.git
+git clone https://github.com/sidhusidharth7075/Placement_Prediction.git
 cd Placement_Prediction
 ```
 
